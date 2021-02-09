@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9DAA178F25D2FB05007D2250 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAA178E25D2FB05007D2250 /* SecondViewController.swift */; };
 		D0E9305325C8C58000AB619F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E9305225C8C58000AB619F /* AppDelegate.swift */; };
 		D0E9305525C8C58000AB619F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E9305425C8C58000AB619F /* SceneDelegate.swift */; };
 		D0E9305725C8C58000AB619F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E9305625C8C58000AB619F /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9DAA178E25D2FB05007D2250 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		D0E9304F25C8C58000AB619F /* XcodeTroubleshootingAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XcodeTroubleshootingAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0E9305225C8C58000AB619F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D0E9305425C8C58000AB619F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				D0E9305425C8C58000AB619F /* SceneDelegate.swift */,
 				D0E9305625C8C58000AB619F /* ViewController.swift */,
 				D0E9305825C8C58000AB619F /* Main.storyboard */,
+				9DAA178E25D2FB05007D2250 /* SecondViewController.swift */,
 				D0E9305B25C8C58400AB619F /* Assets.xcassets */,
 				D0E9305D25C8C58400AB619F /* LaunchScreen.storyboard */,
 				D0E9306025C8C58400AB619F /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DAA178F25D2FB05007D2250 /* SecondViewController.swift in Sources */,
 				D0E9305725C8C58000AB619F /* ViewController.swift in Sources */,
 				D0E9305325C8C58000AB619F /* AppDelegate.swift in Sources */,
 				D0E9305525C8C58000AB619F /* SceneDelegate.swift in Sources */,
